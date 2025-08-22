@@ -1,4 +1,4 @@
-# ADHD Journal
+# Gacha Journal
 
 Watch out~ It might forget everything you just told it!
 
@@ -6,8 +6,4 @@ Watch out~ It might forget everything you just told it!
 
 ![Preview](./images/preview.png)
 
----
-
-#### Example
-
-![Sample run](./images/adhd-journal.mp4)
+> A video example can be found in the `/images/` directory.
